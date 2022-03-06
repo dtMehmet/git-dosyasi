@@ -1,0 +1,13 @@
+#paragraf3{
+    background-color: rgb(132, 226, 145);
+}
+#paragraf5{
+    background-color: lavenderblush;
+}
+.paragraf7{
+    background-color: brown;
+    border: 4px  dotted blue;
+    margin: 50px 30px 10px 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
